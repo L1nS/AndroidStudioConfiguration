@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="restore&#10;" />
       <item value="配置&#10;" />
       <item value="STROKE" />
       <item value="Stroke" />
@@ -53,7 +54,6 @@
       <item value="agency" />
       <item value="author" />
       <item value="机构" />
-      <item value="Appearance" />
     </histories>
     <option name="languageScores">
       <map>
