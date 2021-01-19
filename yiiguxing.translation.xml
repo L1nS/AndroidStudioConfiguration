@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="805" />
+    <option name="newTranslationDialogY" value="448" />
+    <histories>
+      <item value="配置&#10;" />
+      <item value="STROKE" />
+      <item value="Stroke" />
+      <item value="survey" />
+      <item value="comment" />
+      <item value="Schedule" />
+      <item value="Itinerary" />
+      <item value="偏移" />
+      <item value="POINTER" />
+      <item value="指针" />
+      <item value="PHASE" />
+      <item value="半径" />
+      <item value="extensions" />
+      <item value="extentions" />
+      <item value="扩展" />
+      <item value="itinerary" />
+      <item value="行程" />
+      <item value="形成" />
+      <item value="recently" />
+      <item value="recenty" />
+      <item value="recent" />
+      <item value="article" />
+      <item value="文章" />
+      <item value="Corner" />
+      <item value="Certification" />
+      <item value="manual" />
+      <item value="container" />
+      <item value="店铺" />
+      <item value="气泡" />
+      <item value="旗袍" />
+      <item value="Interact" />
+      <item value="评论" />
+      <item value="news" />
+      <item value="operate" />
+      <item value="mask" />
+      <item value="操作" />
+      <item value="发布" />
+      <item value="Manage" />
+      <item value="动态" />
+      <item value="标签" />
+      <item value="column" />
+      <item value="params" />
+      <item value="zhuang" />
+      <item value="special column" />
+      <item value="专栏" />
+      <item value="Service" />
+      <item value="agency" />
+      <item value="author" />
+      <item value="机构" />
+      <item value="Appearance" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="440" />
+        <entry key="ENGLISH" value="441" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1611020341693" />
+  </component>
+</application>

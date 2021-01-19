@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping pattern="Libs" type="Kotlin" />
+      <mapping pattern="ProjectProperities" type="Kotlin" />
+      <mapping pattern="Versions" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="account_logout" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
