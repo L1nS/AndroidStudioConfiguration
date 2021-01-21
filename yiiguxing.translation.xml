@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="symmetry&#10;" />
       <item value="inspector&#10;" />
       <item value="inspe" />
       <item value="checkpoint&#10;" />
@@ -53,7 +54,6 @@
       <item value="news" />
       <item value="operate" />
       <item value="mask" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
