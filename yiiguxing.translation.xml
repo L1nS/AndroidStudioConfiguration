@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="inspector&#10;" />
+      <item value="inspe" />
       <item value="checkpoint&#10;" />
       <item value="attractions" />
       <item value="exercise" />
@@ -52,8 +54,6 @@
       <item value="operate" />
       <item value="mask" />
       <item value="操作" />
-      <item value="发布" />
-      <item value="Manage" />
     </histories>
     <option name="languageScores">
       <map>
