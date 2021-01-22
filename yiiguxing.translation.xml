@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="通知&#10;" />
       <item value="知道" />
       <item value="sequence" />
       <item value="ALIAS" />
@@ -53,7 +54,6 @@
       <item value="店铺" />
       <item value="气泡" />
       <item value="旗袍" />
-      <item value="Interact" />
     </histories>
     <option name="languageScores">
       <map>
