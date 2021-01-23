@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
-      <item value="gallery" />
+      <item value="通知&#10;" />
+      <item value="知道" />
+      <item value="sequence" />
+      <item value="ALIAS" />
+      <item value="unrecoverably " />
+      <item value="symmetry&#10;" />
+      <item value="inspector&#10;" />
+      <item value="inspe" />
+      <item value="checkpoint&#10;" />
+      <item value="attractions" />
       <item value="exercise" />
       <item value="video" />
       <item value="背景知识&#10;" />
@@ -45,23 +54,14 @@
       <item value="店铺" />
       <item value="气泡" />
       <item value="旗袍" />
-      <item value="Interact" />
-      <item value="评论" />
-      <item value="news" />
-      <item value="operate" />
-      <item value="mask" />
-      <item value="操作" />
-      <item value="发布" />
-      <item value="Manage" />
-      <item value="动态" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
-        <entry key="INDONESIAN" value="1" />
+        <entry key="INDONESIAN" value="2" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
