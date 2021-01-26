@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Evaluator" />
+      <item value="Evaluation" />
       <item value="放缩&#10;" />
       <item value="缩放&#10;" />
       <item value="Scale" />
@@ -52,13 +54,11 @@
       <item value="形成" />
       <item value="recently" />
       <item value="recenty" />
-      <item value="recent" />
-      <item value="article" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="451" />
-        <entry key="ENGLISH" value="452" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
