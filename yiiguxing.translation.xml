@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="折叠&#10;" />
+      <item value="z" />
+      <item value="canvas Rotate" />
       <item value="Evaluator" />
       <item value="Evaluation" />
       <item value="放缩&#10;" />
@@ -51,14 +54,11 @@
       <item value="扩展" />
       <item value="itinerary" />
       <item value="行程" />
-      <item value="形成" />
-      <item value="recently" />
-      <item value="recenty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="453" />
-        <entry key="ENGLISH" value="454" />
+        <entry key="CHINESE" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
