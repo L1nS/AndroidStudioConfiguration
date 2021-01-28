@@ -1,9 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="official" />
+      <item value="正式" />
+      <item value="collide" />
+      <item value="develop" />
+      <item value="开发&#10;" />
+      <item value="可发&#10;" />
+      <item value="Privacy Policy" />
       <item value="girat" />
       <item value="折叠&#10;" />
       <item value="z" />
@@ -47,18 +55,11 @@
       <item value="Itinerary" />
       <item value="偏移" />
       <item value="POINTER" />
-      <item value="指针" />
-      <item value="PHASE" />
-      <item value="半径" />
-      <item value="extensions" />
-      <item value="extentions" />
-      <item value="扩展" />
-      <item value="itinerary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
-        <entry key="ENGLISH" value="456" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="458" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
@@ -68,5 +69,8 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1611556549971" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
