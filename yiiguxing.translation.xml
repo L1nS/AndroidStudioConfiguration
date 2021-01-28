@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="805" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Last" />
       <item value="official" />
       <item value="正式" />
       <item value="collide" />
@@ -54,12 +55,11 @@
       <item value="Schedule" />
       <item value="Itinerary" />
       <item value="偏移" />
-      <item value="POINTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="458" />
+        <entry key="ENGLISH" value="459" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
