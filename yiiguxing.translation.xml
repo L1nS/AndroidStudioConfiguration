@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="998" />
     <option name="newTranslationDialogY" value="442" />
     <histories>
+      <item value="Prefix" />
       <item value="专栏&#10;" />
       <item value="动态&#10;" />
       <item value="Last" />
@@ -54,12 +55,11 @@
       <item value="Stroke" />
       <item value="survey" />
       <item value="comment" />
-      <item value="Schedule" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
@@ -69,8 +69,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1612145546046" />
-  </component>
-  <component name="Settings">
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
