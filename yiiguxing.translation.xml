@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="客服" />
+      <item value="kefu" />
+      <item value="custom server" />
+      <item value="custom" />
       <item value="使用列表中的城市id" />
       <item value="https Network  CommunicationException" />
       <item value="https Network CommunicationException" />
@@ -52,10 +56,6 @@
       <item value="checkpoint&#10;" />
       <item value="attractions" />
       <item value="exercise" />
-      <item value="video" />
-      <item value="背景知识&#10;" />
-      <item value="背景" />
-      <item value="多行&#10;" />
     </histories>
     <option name="languageScores">
       <map>
