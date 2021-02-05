@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="998" />
     <option name="newTranslationDialogY" value="442" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="数字&#10;" />
+      <item value="数字" />
+      <item value="字母" />
+      <item value="之母&#10;" />
+      <item value="包含&#10;" />
       <item value="canary&#10;" />
       <item value="客服" />
       <item value="kefu" />
@@ -51,11 +56,6 @@
       <item value="sequence" />
       <item value="ALIAS" />
       <item value="unrecoverably " />
-      <item value="symmetry&#10;" />
-      <item value="inspector&#10;" />
-      <item value="inspe" />
-      <item value="checkpoint&#10;" />
-      <item value="attractions" />
     </histories>
     <option name="languageScores">
       <map>
