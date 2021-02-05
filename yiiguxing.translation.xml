@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="442" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="captured&#10;" />
+      <item value="cap" />
       <item value="数字&#10;" />
       <item value="数字" />
       <item value="字母" />
@@ -54,8 +56,6 @@
       <item value="通知&#10;" />
       <item value="知道" />
       <item value="sequence" />
-      <item value="ALIAS" />
-      <item value="unrecoverably " />
     </histories>
     <option name="languageScores">
       <map>
