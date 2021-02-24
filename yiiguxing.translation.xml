@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dispatch&#10;" />
       <item value="intercept&#10;touch" />
       <item value="intercept&#10;" />
       <item value="intercept" />
@@ -16,7 +17,6 @@
       <item value="perform&#10;" />
       <item value="store" />
       <item value="Introduce" />
-      <item value="dispatch&#10;" />
       <item value="feature&#10;" />
       <item value="assignment" />
       <item value="Delivery" />
