@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="local&#10;" />
       <item value="dispatch&#10;" />
       <item value="intercept&#10;touch" />
       <item value="intercept&#10;" />
@@ -55,7 +56,6 @@
       <item value="可发&#10;" />
       <item value="Privacy Policy" />
       <item value="girat" />
-      <item value="折叠&#10;" />
     </histories>
     <option name="languageScores">
       <map>
