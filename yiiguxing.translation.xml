@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="units&#10;" />
       <item value="traking" />
       <item value="slide&#10;" />
       <item value="sliding&#10;vertical" />
@@ -55,7 +56,6 @@
       <item value="fillet&#10;" />
       <item value="_DESCRIBE" />
       <item value="FORCE" />
-      <item value="FORECE" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614563800739" />
+    <option name="lastTrimTime" value="1615279574114" />
   </component>
 </application>
