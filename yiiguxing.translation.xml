@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="998" />
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="note" />
+      <item value="report" />
+      <item value="questions and answers" />
+      <item value="问答&#10;" />
+      <item value="collect" />
       <item value="units&#10;" />
       <item value="traking" />
       <item value="slide&#10;" />
@@ -51,16 +56,11 @@
       <item value="https Network  CommunicationException" />
       <item value="https Network CommunicationException" />
       <item value="https NetworkCommunicationException" />
-      <item value="https NetworkCommunicationException!" />
-      <item value="progress" />
-      <item value="fillet&#10;" />
-      <item value="_DESCRIBE" />
-      <item value="FORCE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="478" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
