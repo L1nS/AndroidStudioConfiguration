@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Omitted" />
       <item value="setting&#10;" />
       <item value="setup&#10;" />
       <item value="note" />
@@ -55,12 +56,11 @@
       <item value="custom server" />
       <item value="custom" />
       <item value="使用列表中的城市id" />
-      <item value="https Network  CommunicationException" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="478" />
+        <entry key="ENGLISH" value="479" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
