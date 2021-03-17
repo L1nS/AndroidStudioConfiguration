@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="中&#10;" />
       <item value="Ripple" />
       <item value="reload" />
       <item value="Category" />
@@ -55,7 +56,6 @@
       <item value="captured&#10;" />
       <item value="cap" />
       <item value="数字&#10;" />
-      <item value="数字" />
     </histories>
     <option name="languageScores">
       <map>
