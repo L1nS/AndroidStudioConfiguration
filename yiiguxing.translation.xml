@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="append" />
       <item value="中&#10;" />
       <item value="Ripple" />
       <item value="reload" />
@@ -55,12 +56,11 @@
       <item value="sms" />
       <item value="captured&#10;" />
       <item value="cap" />
-      <item value="数字&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="483" />
-        <entry key="ENGLISH" value="484" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="INDONESIAN" value="2" />
