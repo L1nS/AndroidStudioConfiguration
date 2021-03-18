@@ -1,11 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="560" />
+    <option name="newTranslationDialogWidth" value="556" />
     <option name="newTranslationDialogX" value="998" />
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="单位&#10;" />
+      <item value="单位" />
+      <item value="中文&#10;" />
+      <item value="数字&#10;" />
       <item value="scene&#10;" />
       <item value="答题&#10;" />
       <item value="append" />
@@ -52,10 +56,6 @@
       <item value="perform&#10;" />
       <item value="store" />
       <item value="Introduce" />
-      <item value="feature&#10;" />
-      <item value="assignment" />
-      <item value="Delivery" />
-      <item value="sms" />
     </histories>
     <option name="languageScores">
       <map>
