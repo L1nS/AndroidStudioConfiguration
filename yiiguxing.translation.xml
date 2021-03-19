@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="428" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bluetooth" />
+      <item value="bluetto" />
       <item value="produce" />
       <item value="produc" />
       <item value="productor" />
@@ -54,8 +56,6 @@
       <item value="Logistics" />
       <item value="insurance" />
       <item value="Fraction" />
-      <item value="local&#10;" />
-      <item value="intercept&#10;touch" />
     </histories>
     <option name="languageScores">
       <map>
